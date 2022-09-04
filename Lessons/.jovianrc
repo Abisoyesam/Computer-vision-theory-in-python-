@@ -1,0 +1,61 @@
+{
+  "notebooks": {
+    "Lesson 01 Numpy & Matplotlib.ipynb": {
+      "slug": "8d980bbd397542dc86e562145ba9df0c"
+    },
+    "Lesson 02 Introduction to Images.ipynb": {
+      "slug": "2d66ee6c52894abb989740b2f7056662"
+    },
+    "Lesson 3 - 2D Scaling Transformation.ipynb": {
+      "slug": "6132ffb518804917a9479eabf59a1221"
+    },
+    "Lesson 4 - 2D Geometric Transformation.ipynb": {
+      "slug": "98630100803a4bccae31b2d7943671bc"
+    },
+    "Lesson 1 - Numpy & Matplotlib.ipynb": {
+      "slug": "427efd3ac4984ef4ab749552fb127c6c"
+    },
+    "Lesson 5 - Geometric Transformation Estimation.ipynb": {
+      "slug": "8b90ea30072d4057927b06f4fbf161b9"
+    },
+    "Lesson 6 - Binary Morphology.ipynb": {
+      "slug": "10914e7129b14632b1f7dad89da40b81"
+    },
+    "Lesson 7 - Image Filtering.ipynb": {
+      "slug": "dcaa7ba7c74940acae46d1e370830d7e"
+    },
+    "Lesson 8 - Canny Edge Detector.ipynb": {
+      "slug": "b5100ed4d8f24156bc831bc33d3840f0"
+    },
+    "Lesson 9 - Shape Detection.ipynb": {
+      "slug": "3c820de47e4b4551af36eb00d1cdba2e"
+    },
+    "Lesson 10 - Shape Detection Hough Transform.ipynb": {
+      "slug": "e94998366a5f46a8bfd1a96220fea3ab"
+    },
+    "Lesson11 - Corner Detection.ipynb": {
+      "slug": "9e8e5a7cfff04f77bff991f8062a5d1a"
+    },
+    "Lesson 12 - Automatic Panorama SIFT.ipynb": {
+      "slug": "7816a07cb6e049cca510068328f8f902"
+    },
+    "Lesson 13 - Object Detection.ipynb": {
+      "slug": "4bc3882dc6e2429fbd80f7ad3421ad81"
+    },
+    "Lesson 14 - YOLO Object Detector.ipynb": {
+      "slug": "10a2acb891ff49969d83ab6a20a32917"
+    },
+    "Lesson 15 - Motion.ipynb": {
+      "slug": "845d1d2be03a4428a24a7a0e92763ad4"
+    },
+    "Lesson 16 - Object Tracking.ipynb": {
+      "slug": "82423ff2d6904b3794c4abb65118ca30"
+    },
+    "Lesson 17 - 3D Reconstruction.ipynb": {
+      "slug": "b687754c09854e85af8b138f100dd3e4"
+    },
+    "Lesson 18 - Smart CCTV Project.ipynb": {
+      "slug": "56a4d10118c145f5a0fa80acdd1d5275"
+    }
+  }
+}
